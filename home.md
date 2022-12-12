@@ -1,6 +1,6 @@
 # My blog
   
-I got this idea of a fully github hoste markdown blog. This is a test to see its possibilieties.
+I just got this idea of a fully github hosted markdown blog. This is a test to see its possibilieties.
   
-### [B0 Welcome](/b0.md)
-### [B1 Second thoughts](/b1.md)
+### [P0 Welcome](posts/p0.md)
+### [P1 Second thoughts](posts/p1.md)
