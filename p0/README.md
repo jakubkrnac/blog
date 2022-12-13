@@ -1,4 +1,4 @@
-[< posts](/)
+[< posts](https://github.com/jakubkrnac/blog)
 
 # Pilot
 
