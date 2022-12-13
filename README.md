@@ -2,7 +2,7 @@
   
 An attempt to create functioning blog hosted in a GitHub repository.
 
-### [P0 Pilot](posts/0.md)
+### [P0 Pilot](/p0)
 ### [P1 Second thoughts](posts/1.md)
 
 &nbsp;
